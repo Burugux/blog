@@ -39,8 +39,7 @@ $HOME/go/src/github.com/$USER/weather
 
 How cool right?😃
 
-However please note that
->The above would only work if your github username and **$USER** are the same. If not, all you have to do is replace **$USER** with your actually github username.
+However please note that the above would only work if your github username and **$USER** are the same. If not, all you have to do is replace **$USER** with your actually github username.
 
 To make it persitent add the export statement to your **.bashrc** or **.zshrc**.
 
