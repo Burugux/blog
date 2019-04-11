@@ -1,4 +1,4 @@
-baseurl = "http://blog.burugu.xyz/"
+baseurl = "https://blog.burugu.xyz/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 11
