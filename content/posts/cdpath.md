@@ -18,7 +18,7 @@ This works fine but if **weather** is a directory you visit frequently typing al
 
 But wouldn't it be cool if we could just **cd weather** and we would be able to jump to that directory directly?
 
-### Introdcuing CDPATH
+### Introducing CDPATH
 
 It turns out we can actually do that with the help of **CDPATH**. [Learning the bash shell, 3rd eidition](http://shop.oreilly.com/product/9780596009656.do) defines CDPATH as
 >The variable whose value, like that of **PATH**, is a list of directories
