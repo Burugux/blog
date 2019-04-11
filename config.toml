@@ -21,8 +21,11 @@ paginate = 11
   [languages.en]
     title = "Captain's log"
     subtitle = ""
-    keywords = ""
-    copyright = ""
+    keywords = "blog tech"
+    copyright = '''
+      <div>
+        <p>&copy; 2019 Leslie Burugu &middot; Licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></p>
+    '''
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
