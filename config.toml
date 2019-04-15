@@ -24,7 +24,8 @@ paginate = 11
     keywords = "blog tech"
     copyright = '''
       <div>
-        <p>&copy; 2019 Leslie Burugu &middot; Licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></p>
+      <p>To submit an erratum create an issue <a target="_blank" rel="noopener noreferrer" href="https://github.com/Burugux/blog/issues/new">here</a>.</p>
+      <p>&copy; 2019 Leslie Burugu &middot; Licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></p>
     '''
     menuMore = "Show more"
     readMore = "Read more"
