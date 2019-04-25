@@ -7,3 +7,8 @@ $ git clone https://github.com/Burugux/blog.git blog
 $ cd blog
 $ hugo server
 ```
+
+## Creating new content
+```
+./new [new-post-name]
+```
