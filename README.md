@@ -3,7 +3,7 @@ It can be found [here](https://blog.burugu.xyz).
 
 ## Building
 ```
-$ git clone https://github.com/Burugux/blog.git blog
+$ git clone --recursive https://github.com/Burugux/blog.git
 $ cd blog
 $ hugo server
 ```
