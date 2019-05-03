@@ -16,6 +16,7 @@ paginate = 11
   centerTheme = true
   # set a custom favicon (default is a `themeColor` square)
   # favicon = "favicon.ico"
+  description = "Writing about code, taming computers and some ramblings on the side."
 
 [languages]
   [languages.en]
