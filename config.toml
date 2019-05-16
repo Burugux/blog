@@ -21,8 +21,6 @@ canonifyurls = true
   # blog description
   description = "Writing about code, taming computers and some ramblings on the side."
 
-  logo = "avi.png"
-
 [languages]
   [languages.en]
     title = "Captain's log"
