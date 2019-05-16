@@ -2,6 +2,7 @@ baseurl = "https://blog.burugu.xyz/"
 languageCode = "en-us"
 theme = "hugo-theme-hello-friend"
 paginate = 5
+canonifyurls = true
 
 [params]
   # dir name of your blog content (default is `content/posts`)
@@ -20,10 +21,13 @@ paginate = 5
   # blog description
   description = "Writing about code, taming computers and some ramblings on the side."
 
+  logo = "img/avi.png"
+  favicon = "img/favicon.ico"
+
 [languages]
   [languages.en]
     title = "Captain's log"
-    subtitle = ""
+    subtitle = "OSS enthusiast"
     keywords = "blog tech"
     copyright = '''
       <div>
