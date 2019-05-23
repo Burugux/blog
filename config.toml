@@ -23,8 +23,7 @@ canonifyurls = true
 
 [languages]
   [languages.en]
-    title = "Captain's log"
-    subtitle = "OSS enthusiast"
+    title = "Ramblings from Leslie"
     keywords = "blog tech"
     copyright = '''
       <div>
@@ -42,8 +41,12 @@ canonifyurls = true
     dateFormatList = "2006-01-02"
 
     [languages.en.params.logo]
-      logoText = "Captain's log"
+      logoText = "Ramblings from Leslie"
       logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/avi.png"
+    # alt = "Your example logo alt text"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
